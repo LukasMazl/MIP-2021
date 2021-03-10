@@ -1,14 +1,14 @@
-# Zadání
-Na desce je zespodu dioda, pouitá v pøíkazu “blink”. Pøíklad upravte tak, aby deska morseovkou blikala vaše jméno.
+# ZadÃ¡nÃ­
+Na desce je zespodu dioda, pouÅ¾itÃ¡ v pÅ™Ã­kazu â€œblinkâ€. PÅ™Ã­klad upravte tak, aby deska morseovkou blikala vaÅ¡e jmÃ©no.
 
-Snate se pracovat pìknì, morseovku ještì vyuijeme, take si rovnou pøipravujte pìknı kód èlenìnı do knihoven apod.
+SnaÅ¾te se pracovat pÄ›knÄ›, morseovku jeÅ¡tÄ› vyuÅ¾ijeme, takÅ¾e si rovnou pÅ™ipravujte pÄ›knÃ½ kÃ³d ÄlenÄ›nÃ½ do knihoven apod.
 
-#Co je cílem
+## Co je cÃ­lem
 
-Seznámit se deskou, vıvojovım prostøedím, nápovìdou a všemi doprovodnımi jevy. 
-Vytvoøte si úèet v mbed.com; vyzkoušejte online programátor, kdo má Windows, mùe zkusit instalovat aplikaci s vıvojovım prostøedím.
+SeznÃ¡mit se deskou, vÃ½vojovÃ½m prostÅ™edÃ­m, nÃ¡povÄ›dou a vÅ¡emi doprovodnÃ½mi jevy. 
+VytvoÅ™te si ÃºÄet v mbed.com; vyzkouÅ¡ejte online programÃ¡tor, kdo mÃ¡ Windows, mÅ¯Å¾e zkusit instalovat aplikaci s vÃ½vojovÃ½m prostÅ™edÃ­m.
 
-#Co odevzdáte
+## Co odevzdÃ¡te
 
-Kód v Git.
-Video, kde je vidìt, jak deska bliká.
+KÃ³d v Git.
+Video, kde je vidÄ›t, jak deska blikÃ¡.
