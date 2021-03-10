@@ -6,9 +6,10 @@ Snažte se pracovat pěkně, morseovku ještě využijeme, takže si rovnou při
 ## Co je cílem
 
 Seznámit se deskou, vývojovým prostředím, nápovědou a všemi doprovodnými jevy. 
+
 Vytvořte si účet v mbed.com; vyzkoušejte online programátor, kdo má Windows, může zkusit instalovat aplikaci s vývojovým prostředím.
 
 ## Co odevzdáte
 
-Kód v Git.
-Video, kde je vidět, jak deska bliká.
+* Kód v Git.
+* Video, kde je vidět, jak deska bliká.
