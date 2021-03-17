@@ -4,7 +4,7 @@ Tento repositář slouží pro odevzdávání domácích úkolů z předmětu MI
 
 ## Seznam domácích úkolů
 
-- [cv1 - Moser alfabet](cv01/)
+- [cv01 - Moser alfabet](cv01/)
 - [cv02 - Budiko-bomba](cv02/)
 
 ### Moser alfabet
