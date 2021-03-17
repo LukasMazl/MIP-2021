@@ -13,6 +13,10 @@ Cílem je ukázat, jak snadný je vývoj aplikace, když se opřu byť o jednodu
 - Kód aplikace v mbed
 - Readme popisující, jak přesně jste k budíkobombě přistoupili.
 
+## Ukazka
+
+![Alt Text](https://github.com/LukasMazl/MIP-2021/blob/master/img/cv02.gif)
+
 
 ## TODO
   - Pouzit (nějak) watchdog
