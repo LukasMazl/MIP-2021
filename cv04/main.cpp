@@ -9,8 +9,10 @@
 #include <string>
 #include <list>
 
-#define X_POSITION 400
+#define X_POSITION 10
 #define Y_POSITION 200
+#define WIDTH 100
+#define HEIGHT 80
 #define DEFAULT_LABEL_VALUE ""
 
 static Semaphore semaphore(1);
@@ -214,15 +216,17 @@ int main()
 {
     BSP_LCD_DisplayOn();
     
-    Button powerOnButton(115, 80, 100, 80, "ON");
-    Button powerOffButton(10, 80, 100, 80, "OFF");
+    int buttonCount = 0;
+    
+    Button powerOnButton(X_POSITION + WIDTH, Y_POSITION + (HEIGHT * buttonCount++) , WIDTH, HEIGHT, "ON");
+    Button powerOffButton(X_POSITION, Y_POSITION, WIDTH, HEIGHT, "OFF");
 
-    Button MP3(10, 160, 100, 80, "MP3");
-    Button handfree(10, 240, 100, 80, "Handsfree");
+    Button MP3(X_POSITION,Y_POSITION + (HEIGHT * buttonCount++), WIDTH, HEIGHT, "MP3");
+    Button handfree(X_POSITION, Y_POSITION + (HEIGHT * buttonCount++), WIDTH, HEIGHT, "Handsfree");
 
-    Button AM_FM(10, 320, 100, 80, "AM/FM");
-  //  Button INCOMING_CALL(10, 250, 100, 80, "Incoming Call");
-    Button make_call(10, 400, 100, 80, "Make call");
+    Button AM_FM(X_POSITION, Y_POSITION + (HEIGHT * buttonCount++), WIDTH, HEIGHT, "AM/FM");
+  //  Button INCOMING_CALL(X_POSITION, Y_POSITION + (HEIGHT * buttonCount++), WIDTH, HEIGHT, "Incoming Call");
+    Button make_call(X_POSITION, Y_POSITION + (HEIGHT * buttonCount++), WIDTH, HEIGHT, "Make call");
 
     while(true) {
 
