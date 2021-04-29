@@ -10,7 +10,7 @@
 #include <list>
 
 #define X_POSITION 10
-#define Y_POSITION 200
+#define Y_POSITION 160
 #define WIDTH 100
 #define HEIGHT 80
 #define DEFAULT_LABEL_VALUE ""
